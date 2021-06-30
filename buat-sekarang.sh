@@ -50,7 +50,7 @@ read -p "pilih => " coding
 # menu ke tiga
     if [ $coding = 3 ]; then
     echo $purple"# ISI FORMULIR DULU BRO"
-    bash spam-coling.sh
+    sh spam-coling.sh
     fi
 
 # menu ke empat
