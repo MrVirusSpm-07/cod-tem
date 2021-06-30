@@ -576,9 +576,9 @@ figlet REPORT | lolcat
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 echo
-echo "        { mari report hekel pansos }" | lokcat
+echo "        { mari report hekel pansos }" | lolcat
 echo "++++++++++++++++++++++++++++++++++++++++++++" | lolcat
-echo " AUTHOR  = $author" | lokcat
+echo " AUTHOR  = $author" | lolcat
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
@@ -864,7 +864,7 @@ echo " AUTHOR  = $author" | lokcat
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
-echo " PROGRAM = REPORT HEKEL PANSOS" | lokcat
+echo " PROGRAM = REPORT HEKEL PANSOS" | lolcat
 echo "++++++++++++++++++++++++++++++++++++++++++++" | lolcat
 echo
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
