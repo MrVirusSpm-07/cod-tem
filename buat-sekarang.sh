@@ -44,7 +44,7 @@ read -p "pilih => " coding
 # menu ke dua
       if [ $coding = 2 ]; then
       echo $purple"# ISI FORMULIR DULU BRO"
-      sh dosfake.sh
+      bash dosfake.sh
       fi
 
 # menu ke tiga
