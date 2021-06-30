@@ -4636,7 +4636,8 @@ def mulai():
       print('# Imbang =')
       s(1)
     nanya()
-                                                                                                                      if __name__=='__main__':
+                                                     
+if __name__=='__main__':
   mulai()
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
 # maaf bro script ini tidak bisa di record kalo mau record ijin dulu pasti boleh :)
