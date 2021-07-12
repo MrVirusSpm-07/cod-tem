@@ -11,7 +11,6 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 # mau apa bro ?
-xdg-open https://youtube.com/channel/UCIEWrGcR1N4v4eIkVh3mX8Q
 read -p "udah subcribe bro ? = " 
 echo " tunggu mohon bersabar"
 sleep 3
